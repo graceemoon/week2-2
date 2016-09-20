@@ -51,7 +51,7 @@ Developer @GA in NYC
 /*******************************************/
 
 body {
-  color: #f0efef;
+  color: #e95346;
   font-size: 26px;
   line-height: 1.4;
   color: #606161;
@@ -70,7 +70,7 @@ a {
 /* Center the container */
 .container {
   width: 960px;
-  margin: 0 auto;
+  margin: 2 auto;
 }
 
 .logo {
@@ -80,7 +80,7 @@ a {
 
 header {
   height: 700px;
-  background-color: #131e27;
+  background-color: #e95346;
   padding-top: 32px;
 }
 
